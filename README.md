@@ -1,7 +1,6 @@
 - 👋 Hi, I’m M.Tayyab
 - 👀 I’m interested in ... GAMING+PROGRAMMING
 - 🌱 I’m currently learning ... GENRATIVE AI
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... tayyabshahbaz2005@gmail.com
 - 😄 Pronouns: ...HE/HIM
 - ⚡ Fun fact: ...KUCH NAI
