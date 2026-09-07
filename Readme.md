@@ -21,7 +21,7 @@ I build **agentic AI systems** and pair them with clean, usable mobile experienc
 - 🎨 Designing interfaces before I write a line of code
 - 🧠 Sharpening fundamentals through **LeetCode / DSA practice**
 - 👯 Open to collaborating on **AI + mobile + design** projects
-- 📫 Reach me at **YOUR_EMAIL_HERE**
+- 📫 Reach me at **tayyabshahbaz2005@gmail.com**
 
 ---
 
