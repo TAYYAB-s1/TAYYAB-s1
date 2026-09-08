@@ -21,7 +21,7 @@ I build **agentic AI systems** and pair them with clean, usable mobile experienc
 - 🎨 Designing interfaces before I write a line of code
 - 🧠 Sharpening fundamentals through **LeetCode / DSA practice**
 - 👯 Open to collaborating on **AI + mobile + design** projects
-- 📫 Reach me at **tayyabshahbaz2005@gmail.com**
+- 📫 Reach me at **YOUR_EMAIL_HERE**
 
 ---
 
@@ -62,7 +62,7 @@ I build **agentic AI systems** and pair them with clean, usable mobile experienc
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=TAYYAB-s1&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=TAYYAB-s1&theme=dark&hide_border=true" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=TAYYAB-s1&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
